@@ -3,7 +3,7 @@
 
 variable "name" {
   type        = string
-  description = "The datasbase name"
+  description = "The database name"
 }
 
 variable "namespace" {
